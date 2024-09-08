@@ -18,7 +18,7 @@ $ adminp
 
 ###  method 1
 
-> ![2](https://drive.google.com/file/d/1zCTbSAIPzxU6TLeYOx_IrNh3iP106F7W/view)
+> ![Screenshot_2024-09-08_18-19-54](https://github.com/user-attachments/assets/11d05be6-3de1-49b8-9dc7-86a11e0a0d6b)
 
 
 # -------------------
