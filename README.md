@@ -16,14 +16,14 @@ $ adminp
 > ![Screenshot_2024-09-08_18-21-13](https://github.com/user-attachments/assets/8fbbc10d-98f7-4902-9ded-cb16db279541)
 # ------------------
 
-###  method 1
+###  example :
 
 > ![Screenshot_2024-09-08_18-19-54](https://github.com/user-attachments/assets/11d05be6-3de1-49b8-9dc7-86a11e0a0d6b)
 
 
 # -------------------
 
-###  method 2 :
+###  example :
 
 > ![Screenshot_2024-06-28_07_46_22](https://github.com/user-attachments/assets/ebcae697-de64-4338-af37-c006d7efda5a)
    
