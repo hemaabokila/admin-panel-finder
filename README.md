@@ -18,7 +18,7 @@ $ adminp
 
 ###  method 1
 
-> ![2](https://drive.google.com/file/d/1zCTbSAIPzxU6TLeYOx_IrNh3iP106F7W/view?usp=sharing)
+> ![2](https://drive.google.com/file/d/1zCTbSAIPzxU6TLeYOx_IrNh3iP106F7W/view)
 
 
 # -------------------
