@@ -25,6 +25,6 @@ $ adminp
 
 ###  method 2 :
 
-> ![3](https://drive.google.com/file/d/1mA_jI_Xm7vR2nAHErhezaJ7fHMCPVk9l/view?usp=drive_link)
+> ![Screenshot_2024-06-28_07_46_22](https://github.com/user-attachments/assets/ebcae697-de64-4338-af37-c006d7efda5a)
    
 
