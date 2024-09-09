@@ -6,7 +6,7 @@ We offer binaries ready to use for the following platforms (all are for 64 bits 
 ```
 $ git clone https://github.com/hemaabokila/adminp.git
 $ cd adminp
-$ sudo mv adminp.py /usr/bin/adminp && chmod +x /usr/bin/adminp
+$ sudo mv adminpnel.py /usr/bin/adminpanel && chmod +x /usr/bin/adminpanel
 $ sudo mv admin.txt /usr/share/wordlists/admin.txt
 $ adminp
 ```
