@@ -16,7 +16,6 @@ def adminpanel(url):
     except urllib.error.URLError as a:
         print(url)
         print(a)
-# adminpanal("https://www.google.com")
 pars= OptionParser("""
    #    ######  #     #   ###   #     # ######     #    #     # ####### #
   # #   #     # ##   ##    #    ##    # #     #   # #   ##    # #       #
