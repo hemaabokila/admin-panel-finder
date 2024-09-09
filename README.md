@@ -13,7 +13,7 @@ $ adminp
 
 
 ###  start menu : 
-> ![Screenshot_2024-09-09_06-53-55](https://github.com/user-attachments/assets/d6d7ef7d-f630-4bc4-8381-5873d548f279)
+> ![Screenshot_2024-09-09_09-37-41](https://github.com/user-attachments/assets/e66376cd-ad91-4d9e-ae9e-3fd0d0c98117)
 # ------------------
 
 ###  example :
