@@ -18,7 +18,7 @@ $ adminp
 
 ###  example :
 
-> ![Screenshot_2024-09-08_18-19-54](https://github.com/user-attachments/assets/11d05be6-3de1-49b8-9dc7-86a11e0a0d6b)
+> ![Screenshot_2024-09-09_06-54-59](https://github.com/user-attachments/assets/d5218c79-360e-4b06-b0a4-9579df60ee02)
 
 
 # -------------------
