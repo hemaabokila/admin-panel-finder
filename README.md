@@ -5,15 +5,15 @@ We offer binaries ready to use for the following platforms (all are for 64 bits 
 * [Linux]
 ```
 $ git clone https://github.com/hemaabokila/admin-panel-finder.git
-$ cd adminp
-$ sudo mv adminpnel.py /usr/bin/adminpanel && chmod +x /usr/bin/adminpanel
+$ cd admin-panel-finder
+$ sudo mv adminpanel.py /usr/bin/adminpanel && chmod +x /usr/bin/adminpanel
 $ sudo mv admin.txt /usr/share/wordlists/admin.txt
 $ adminp
 ```
 
 
 ###  start menu : 
-> ![Screenshot_2024-09-08_18-21-13](https://github.com/user-attachments/assets/8fbbc10d-98f7-4902-9ded-cb16db279541)
+> ![Screenshot_2024-09-09_06-53-55](https://github.com/user-attachments/assets/d6d7ef7d-f630-4bc4-8381-5873d548f279)
 # ------------------
 
 ###  example :
