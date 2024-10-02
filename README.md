@@ -1,30 +1,66 @@
-# Installation
 
-We offer binaries ready to use for the following platforms (all are for 64 bits only):
+# Admin Panel Finder
 
-* [Linux]
+## Overview
+
+Admin Panel Finder is a powerful tool designed to help security professionals and developers locate admin panels on websites using a customizable wordlist. This tool employs multi-threading to enhance scanning speed and efficiency, making it ideal for penetration testing and security assessments.
+
+## Features
+
+- **Multi-threading**: Perform scans faster by using multiple threads.
+- **Custom Wordlists**: Specify your own wordlist or use the default.
+- **User-friendly Output**: Easily identify found or missing admin panels with clear messages.
+- **Signal Handling**: Gracefully stop execution with a simple keyboard interrupt (Ctrl+C).
+
+## Requirements
+
+- Python 3.6 or higher
+- `requests` library
+- `colorama` library
+
+## Installation
 ```
-$ git clone https://github.com/hemaabokila/admin-panel-finder.git
-$ cd admin-panel-finder
-$ sudo mv adminpanel.py /usr/bin/adminpanel && chmod +x /usr/bin/adminpanel
-$ sudo mv admin.txt /usr/share/wordlists/admin.txt
+$ git clone https://github.com/hemaabokila/admin-panel.git
+$ cd adminp
+$ pip install .
 $ adminp
 ```
 
+- **To install the required libraries, use the following command**:
 
-###  start menu : 
-> ![Screenshot_2024-09-09_09-37-41](https://github.com/user-attachments/assets/e66376cd-ad91-4d9e-ae9e-3fd0d0c98117)
-# ------------------
+```
+pip install requests colorama
+```
+## Usage
+- **Run the tool from the command line using the following syntax**:
 
-###  example :
+```
+adminp <url> [-w <wordlist>] [-t <threads>] [-to <timeout>]
+```
+## Parameters:
+```
+<url>: The target URL to scan.
+-w <wordlist>: (Optional) Path to a custom wordlist file (default is admin.txt in the wordlists directory).
+-t <threads>: (Optional) Number of threads to use (default is 10).
+-to <timeout>: (Optional) Request timeout in seconds (default is 5).
+```
+## Example
+- **To scan a website using the default wordlist**:
 
-> ![Screenshot_2024-09-09_09-38-13](https://github.com/user-attachments/assets/6e40cfb7-b936-4991-aa6f-a9b688ff47e3)
+```
+adminp http://example.com
+```
+- **To use a custom wordlist and specify the number of threads**:
+
+```
+adminp http://example.com -w /path/to/your_wordlist.txt -t 5
+```
+## Contributing
+- **Contributions are welcome! If you have suggestions or improvements, please create an issue or submit a pull request**.
 
 
-# -------------------
-
-###  example :
-
-> ![Screenshot_2024-06-28_07_46_22](https://github.com/user-attachments/assets/ebcae697-de64-4338-af37-c006d7efda5a)
-   
-
+## Acknowledgements
+- **Requests for making HTTP requests simpler**.
+- **Colorama for enhancing console output with colors**.
+## Contact
+- **For questions or feedback, feel free to reach out to me at ibrahemabokila@gmail.com**.
