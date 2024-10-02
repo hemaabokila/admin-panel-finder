@@ -22,7 +22,7 @@ Admin Panel Finder is a powerful tool designed to help security professionals an
 ```
 $ git clone https://github.com/hemaabokila/admin-panel-finder.git
 $ cd adminp
-$ pip install .
+$ sudo pip install .
 $ adminp
 ```
 
