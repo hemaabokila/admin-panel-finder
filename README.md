@@ -20,7 +20,7 @@ Admin Panel Finder is a powerful tool designed to help security professionals an
 
 ## Installation
 ```
-$ git clone https://github.com/hemaabokila/admin-panel.git
+$ git clone https://github.com/hemaabokila/admin-panel-finder.git
 $ cd adminp
 $ pip install .
 $ adminp
