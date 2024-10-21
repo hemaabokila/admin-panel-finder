@@ -1,6 +1,6 @@
-
 # Admin Panel Finder
-
+[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 ## Overview
 
 Admin Panel Finder is a powerful tool designed to help security professionals and developers locate admin panels on websites using a customizable wordlist. This tool employs multi-threading to enhance scanning speed and efficiency, making it ideal for penetration testing and security assessments.
@@ -62,5 +62,7 @@ adminp http://example.com -w /path/to/your_wordlist.txt -t 5
 ## Acknowledgements
 - **Requests for making HTTP requests simpler**.
 - **Colorama for enhancing console output with colors**.
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 ## Contact
 - **For questions or feedback, feel free to reach out to me at ibrahemabokila@gmail.com**.
